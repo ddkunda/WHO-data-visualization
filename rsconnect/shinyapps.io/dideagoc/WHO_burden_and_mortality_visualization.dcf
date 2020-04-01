@@ -1,0 +1,12 @@
+name: WHO_burden_and_mortality_visualization
+title: WHO_burden_and_mortality_visualization
+username:
+account: dideagoc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1104719
+bundleId: 2616991
+url: https://dideagoc.shinyapps.io/WHO_burden_and_mortality_visualization/
+when: 1574716618.30903
+asMultiple: FALSE
+asStatic: FALSE
